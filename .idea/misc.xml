@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/Desktop/Universidad_2022_parte_1/Aplicaciones_moviles/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
         <entry key="..\:/Users/HP/Desktop/Universidad_2022_parte_1/Aplicaciones_moviles/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Desktop/Universidad_2022_parte_1/Aplicaciones_moviles/app/src/main/res/layout/activity_recibe_info.xml" value="0.2" />
       </map>
     </option>
   </component>
